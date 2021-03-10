@@ -19,7 +19,3 @@ On feature1 the scenario is as follows:
 12- Dev1 executes pull -r and resolves conflicts
 13- Dev1 pushs again to origin/feature1
 
-
-line1 feature1 by dev2
-line2 feature1 by dev2 
-line3 feature1 by dev1
