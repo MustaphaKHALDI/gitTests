@@ -7,3 +7,5 @@ line2 feature1 by dev2
 line3 feature1 by dev1
 line3 feature2 by dev2
 line4 feature2 by dev2
+line4 feature2 by dev1
+line5 feature2 by dev1
