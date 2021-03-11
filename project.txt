@@ -9,3 +9,4 @@ line3 feature2 by dev2
 line4 feature2 by dev2
 line4 feature2 by dev1
 line5 feature2 by dev1
+line6 feature2 by dev1
